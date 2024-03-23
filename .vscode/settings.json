@@ -1,0 +1,9 @@
+{
+	"makefile.launchConfigurations": [
+		{
+			"cwd": "/home/ruralanemone/Documents/code/cellular-automata",
+			"binaryPath": "/home/ruralanemone/Documents/code/cellular-automata/game",
+			"binaryArgs": []
+		}
+	]
+}
